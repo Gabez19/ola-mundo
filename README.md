@@ -1,2 +1,4 @@
-# ola mundo
- First Repository Versionated
+# Olá, mundo!
+ First Repository Versionated, git and git hub
+
+ Repositório para treinar.
